@@ -1,4 +1,4 @@
 <html>
-  <p>Write names, Jonathan , Wesley___ ,______ , ______ and Ryan</p>
+  <p>Write names, Stanley___ , ______ ,______ , ______ and Ryan</p>
  
 </html>
