@@ -8,7 +8,7 @@
   <p>This is wesley</p>
 
   <p>Write names, Stanley , Wesley ,ålex, Jonathan and Ryan</p>
- <p>Hello may name is Stanley .</p>
+ <p>Hello may name is Stanley blah blah.</p>
 
 
 </html>
