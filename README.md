@@ -1,9 +1,4 @@
 <html>
-  <p>Write names, Stanley , Wesley ,ålex, Jøna†han and Ryan</p>
- 
- 
- 
- 
- 
- <p>Hello, I am Ryan...</p>
+  <p>Write names, Stanley , Wesley ,ålex, Jonathan and Ryan</p>
+ <p>Hello may name is Stanley .</p>
 </html>
