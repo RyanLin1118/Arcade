@@ -1,0 +1,66 @@
+header{
+  
+}
+
+main{
+  
+  
+}
+
+footer{
+  
+}
+
+header img{
+  height:300px;
+  width:300px;
+}
+
+header  nav a{
+  color:black;
+}
+
+
+
+.myButton1 {
+	background-color:#deaa25;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+.myButton1:hover {
+	background-color:#308ad9;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+
+
+.myButton2 {
+	background-color:#258ede;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+.myButton2:hover {
+	background-color:#db9c30;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
