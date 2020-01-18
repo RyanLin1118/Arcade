@@ -1,5 +1,8 @@
 <html>
 
+  <p>Write names, Wesley , ,, and </p>
+
+
   <p>Write names, stanley____ , ______ ,______ , ______ and __________</p>
 
 
@@ -22,6 +25,7 @@
   <p> @lex</p>
 
   <p>Write names, ______ , ______ ,______ , ______ and __________</p>
+
   <img src="https://i.redd.it/e40yugqugjn21.png">
   <p>This is wesley</p>
 
