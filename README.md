@@ -1,6 +1,17 @@
 <html>
 
 
+  <p>Write names: Jonathan , ______ ,______ ,  and Ryan</p>
+
+
+  <p>Write names, Wesley , ,, and </p>
+
+
+  <p>Write names, stanley____ , ______ ,______ , ______ and __________</p>
+
+
+
+
   <p>Write names, Stanley , Wesley ,ålex, Jøna†han and Ryan</p>
   <p>hello my name is Stanley</p>
 
@@ -19,11 +30,19 @@
   <p> @lex</p>
 
   <p>Write names, ______ , ______ ,______ , ______ and __________</p>
+
+
+
   <img src="https://i.redd.it/e40yugqugjn21.png">
   <p>This is wesley</p>
 
   <p>Write names, Stanley , Wesley ,ålex, Jonathan and Ryan</p>
  <p>Hello may name is Stanley blah blah.</p>
+
+
+
+
+  <p>YOLO this is Alex®</p>
 
 
 
